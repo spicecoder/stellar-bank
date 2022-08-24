@@ -1,6 +1,7 @@
 # Banking on Blockchain with Stellar - Tutorial
 
 ## What is Stellar?
+ref : https://github.com/stellar/stellar-core/tree/master/docs
 
 According to [Stellar.org](https://www.stellar.org/) : Stellar is open-source, distributed payments infrastructure. Using the Stellar network, you can build mobile wallets, banking tools, smart devices that pay for themselves, and just about anything else you can dream up involving payments! Even though Stellar is a complex distributed system, working with it doesn’t need to be complicated.
 
